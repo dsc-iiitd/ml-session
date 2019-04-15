@@ -23,6 +23,7 @@ Clone this repository and move into the directory.
 First, we will create a virtual environment to run our code. The virtual environment is like a sandbox where you can install Python libraries without affecting your system-wide dependencies. The way to make a virtual environment is: 
 
 `pip install virtualenv`
+
 `virtualenv -p python3 venv`
 
 Now, activate your virtual environment using:
