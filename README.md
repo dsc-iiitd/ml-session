@@ -8,9 +8,9 @@ In the first session of the workshop, we introduced the participants to a typica
 
 We also demo-ed three basic ML algorithms for the participants to be able to see them in action and learn the math and intuition behind them. These algorithms were:
 
-— Linear Regression
-— K-Nearest Neighbours
-— K-means clustering
+* Linear Regression
+* K-Nearest Neighbours
+* K-means clustering
 
 At the end of the session, we opened a Kaggle contest for the students to participate in and play around with what they learnt.
 
